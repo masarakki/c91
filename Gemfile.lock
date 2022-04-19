@@ -4,7 +4,7 @@ GEM
     md2review (1.7.0)
       redcarpet (> 2.0.0)
     rake (11.3.0)
-    redcarpet (3.3.4)
+    redcarpet (3.5.1)
     review (2.1.0)
       rubyzip
     rubyzip (1.2.0)
