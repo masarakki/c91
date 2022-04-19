@@ -7,7 +7,7 @@ GEM
     redcarpet (3.3.4)
     review (2.1.0)
       rubyzip
-    rubyzip (1.2.0)
+    rubyzip (2.3.2)
 
 PLATFORMS
   ruby
